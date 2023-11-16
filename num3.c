@@ -24,5 +24,25 @@ int main(){
         printf("%d - %c \n", i, s[i]);
     }
 
-
 }
+
+/*resposta do professor:
+
+#include <stdio.h>
+#include <string.h>
+
+int main(){
+	
+	char str[100];
+	
+	printf("Digite uma string: ");
+	fgets(str, sizeof(str), stdin);
+	str[strcspn(str, "\n")] = '\0'; 
+	// para desconsiderar caractere de nova linha
+
+ 	int comprimento = strlen(str); // -1 para desconsiderar o caractere de nova linha
+	printf("A string possui %d caracteres.\n", comprimento);
+}
+
+
+*/
