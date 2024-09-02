@@ -6,7 +6,9 @@ ajudando na prática e compreensão dos conceitos.
 
 ## Conteúdo
 
-- **Exercício 1**: [Descrição do exercício e solução](link-para-arquivo-ou-seção)
+- **Exercício num1**: [soma de elementos em um array**: dado o int array[5] =
+{1,2,3,4,5}, Escreva um programa que calcule a soma de todos
+os elementos em um array de inteiros.](link-para-arquivo-ou-seção)
 - **Exercício 2**: [Descrição do exercício e solução](link-para-arquivo-ou-seção)
 - **Exercício 3**: [Descrição do exercício e solução](link-para-arquivo-ou-seção)
 - **...**
