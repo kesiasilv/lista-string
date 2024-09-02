@@ -7,10 +7,11 @@ ajudando na prática e compreensão dos conceitos.
 ## Conteúdo
 
 - **Exercício num1**:
-  soma de elementos em um array**: dado o int array[5] =
+Soma de elementos em um array**: dado o int array[5] =
 {1,2,3,4,5}, Escreva um programa que calcule a soma de todos
 os elementos em um array de inteiros.
-[File com a solução](https://github.com/kesiasilv/lista-string/blob/main/num1.c)
+[solução](https://github.com/kesiasilv/lista-string/blob/main/num1.c)
+
 - **Exercício 2**: [Descrição do exercício e solução](link-para-arquivo-ou-seção)
 - **Exercício 3**: [Descrição do exercício e solução](link-para-arquivo-ou-seção)
 - **...**
