@@ -12,7 +12,10 @@ Soma de elementos em um array**: dado o int array[5] =
 os elementos em um array de inteiros.
 [solução](https://github.com/kesiasilv/lista-string/blob/main/num1.c)
 
-- **Exercício 2**: [Descrição do exercício e solução](link-para-arquivo-ou-seção)
+- **Exercício 2**: 
+Média dos elementos de um Aarray
+[Solução](https://github.com/kesiasilv/lista-string/blob/main/num2.c)
+
 - **Exercício 3**: [Descrição do exercício e solução](link-para-arquivo-ou-seção)
 - **...**
 
