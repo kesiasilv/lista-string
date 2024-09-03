@@ -52,4 +52,4 @@ Contagem de ocorrências de uma letra em uma string
 
 ## Contato
 
-Se deseja tirar dúvidas ou compartilhar conhecimento, entre em contato comigo, meu Email: [kesiasilvab6@gmail.com](mailto:seu-email@exemplo.com).
+Se deseja tirar dúvidas ou compartilhar conhecimento, entre em contato comigo, meu Email: [Késia](kesiasilvab6@gmail.com).
