@@ -7,17 +7,42 @@ ajudando na prática e compreensão dos conceitos.
 ## Conteúdo
 
 - **Exercício num1**:
-Soma de elementos em um array**: dado o int array[5] =
-{1,2,3,4,5}, Escreva um programa que calcule a soma de todos
-os elementos em um array de inteiros.
+Soma de elementos em um array
 [solução](https://github.com/kesiasilv/lista-string/blob/main/num1.c)
 
-- **Exercício 2**: 
+- **Exercício num2**: 
 Média dos elementos de um Aarray
-[Solução](https://github.com/kesiasilv/lista-string/blob/main/num2.c)
+[solução](https://github.com/kesiasilv/lista-string/blob/main/num2.c)
 
-- **Exercício 3**: [Descrição do exercício e solução](link-para-arquivo-ou-seção)
-- **...**
+- **Exercício num3**:
+Contagem de caracteres em uma string
+[solução](https://github.com/kesiasilv/lista-string/blob/main/num3.c)
+
+- **Exercício num4**
+Concatenação de strings
+[solução](https://github.com/kesiasilv/lista-string/blob/main/num4.c)
+
+- **Exercício num5**
+Comparação de strings
+[solução](https://github.com/kesiasilv/lista-string/blob/main/num5.c)
+
+- **Exercício num6**
+Cópia de strings
+[solução](https://github.com/kesiasilv/lista-string/blob/main/num6.c)
+
+- **Exercício num7**
+Inversão de uma string
+[solução](https://github.com/kesiasilv/lista-string/blob/main/num7.c)
+
+- **Exercício num8**
+Contagem de ocorrências de uma letra em uma string
+[solução](https://github.com/kesiasilv/lista-string/blob/main/num8.c)
+
+- **Exercício num8**
+Contagem de ocorrências de uma letra em uma string
+[solução](https://github.com/kesiasilv/lista-string/blob/main/num8.c)
+
+- **Outros Exemplos**
 
 ## Como Rodar
 
